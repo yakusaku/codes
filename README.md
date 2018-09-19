@@ -6,8 +6,8 @@ Everything is under collective development by the lab. If you find something tha
 
 
 # New here?
-FIRST: Check out the tutorials in the 'tutorials' folder.
-SECOND: Check out the wiki. This includes data formatting standards, instructions on using git, and other stuff. As you find things that aren't clear, consider improving the wiki to make them more clear for the next user.
+- FIRST: Check out the tutorials in the 'tutorials' folder.
+- SECOND: Check out the wiki. This includes data formatting standards, instructions on using git, and other stuff. As you find things that aren't clear, consider improving the wiki to make them more clear for the next user.
 
 
 # Data Formatting Standardstandards
