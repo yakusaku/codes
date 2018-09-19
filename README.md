@@ -13,6 +13,6 @@ SECOND: Check out the wiki. This includes data formatting standards, instruction
 # DATA FORMATTING STANDARDS
 Everything will conform to a single (flexible, but documented) database structure. All files pertaining to a single recording will live in a single self-contained folder, or a 'basePath' (whateverPath/baseName/), where baseName is the name of the recording. Files will follow the naming convention basePath/baseName.fileName.filetype. For example, /recording7/recording7.ripples.events.mat will be a file containing information about ripples from a recording named recording7, it’s contents will be in the format prescribed to .events.mat type files. 
 More on this can be found in the wiki here:
-https://github.com/buzsakilab/buzcode/wiki/Data-Formatting-Standards
+https://github.com/yakusaku/codes/wiki/Data-Formatting-Standards
 ​
 As you (inevitably) run into data types that don't really fit into any of these boxes, please open an issue to discuss with the group, and add the necessary format/standards to the wiki.
