@@ -1,4 +1,4 @@
-# Welcome to the Yakusaku (Ikegaya lab) repository! 
+# Welcome to the Yakusaku (Ikegaya lab) repository.
 The goal is to have this repo as your one-stop-shop for code you may need as a Yakusaku (Ikegaya Lab) member. This will include preprocessing pipelines as well as analysis functions. 
 
 # IMPORTANT
